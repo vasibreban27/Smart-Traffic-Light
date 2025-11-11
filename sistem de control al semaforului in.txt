@@ -1,0 +1,11 @@
+sistem de control al semaforului inteligent
+
+Proiectati un sistem de semaforizare inteligent care utilizeaza diversi senzori fie senzori pe care ii avem in dotare fie alti simulati fie prin potentiometrele pe care le avem in dotare. Studentul va descrie cum se gandeste ca acest semafor sa functioneze si sa utilizeze senzori sau alte informatii pentru a gestiona eficient traficul.
+
+--documentare in detaliu, ce trebuie sa se intample exact
+--creare roadmap
+--planificare pe etape + prezentare 
+
+1.descriere detaliata + cercetari
+2.taskuri pe sapt pana la final(sapt 13 si 14 final + documentatie la final ca si un tutorial) (ce am facut + cod sursa)
+3.
